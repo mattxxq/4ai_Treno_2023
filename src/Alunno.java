@@ -13,6 +13,7 @@ public class Alunno {
 		this.cognome=cognome;
 		this.data=data;
 	}
+	//get and set methods
 	public String getNome() {
 		return nome;
 	}
