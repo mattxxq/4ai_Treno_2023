@@ -7,7 +7,7 @@ public class Alunno {
 	private String classe;
 	private String residenza;
 	private boolean siOno=false;
-	
+	//costruttore
 	public Alunno(String nome, String cognome, String data) {
 		this.nome=nome;
 		this.cognome=cognome;
