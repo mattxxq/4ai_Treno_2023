@@ -14,6 +14,7 @@ public class Alunno {
 		this.data=data;
 	}
 	//get and set methods
+	//nn saprei perchè fanno tutt così
 	public String getNome() {
 		return nome;
 	}
